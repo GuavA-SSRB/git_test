@@ -1,4 +1,5 @@
 2025/03/18
-bash 終端測試 2
+bash 終端測試 3
+With New SSH Key Setting
 
 - gua
