@@ -1,5 +1,6 @@
 2025/03/18
-bash 終端測試 3
+bash 終端測試 4
 With New SSH Key Setting
+Using Powershell Terminal
 
 - gua
